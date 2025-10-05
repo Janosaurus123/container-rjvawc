@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Oct 05 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@Janosaurus123](https://github.com/Janosaurus123))
+
+#### Authors: 1
+
+- [@Janosaurus123](https://github.com/Janosaurus123)
+
+---
+
 # v0.0.1 (Sun Oct 05 2025)
 
 :tada: This release contains work from a new contributor! :tada:
