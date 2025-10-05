@@ -1,3 +1,15 @@
+# v0.0.3 (Sun Oct 05 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update requirements.txt ([@Janosaurus123](https://github.com/Janosaurus123))
+
+#### Authors: 1
+
+- [@Janosaurus123](https://github.com/Janosaurus123)
+
+---
+
 # v0.0.2 (Sun Oct 05 2025)
 
 #### ⚠️ Pushed to `main`
